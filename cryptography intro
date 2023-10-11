@@ -1,0 +1,45 @@
+encryption 
+decryption
+hashing
+salting
+passwords
+
+cryptography
+make things unreadable - putting a "password" on a file
+prove who you are - logging in - checking if you have permission
+
+secret_message -> unencrypted through internet -> alex's computer 
+                    ^^^^^^^
+                    aidan on a laptop outside your house
+
+
+me and alex meet up and i give alex PUBLIC-key
+secret_message "hello!" -> "idjqo23" -> unencrypted through internet -> alex's computer -> PUBLIC-key -> "hello!"
+
+Asymmetric encryoption
+public-key / private-key encryption 
+
+private key = 1209i1209eii
+public key = 38123092183
+
+
+red > "purple" > encrypted_message-private_key = red
+                 encrypted_message - green = yellow
+
+private key = blue
+
+BRUTE FORCE ATTACK 
+password
+passsword1
+passwOrd
+passw0rd2
+
+cyphering
+decyphering 
+encrypting 
+decrypting
+
+http://...
+https://...
+
+
